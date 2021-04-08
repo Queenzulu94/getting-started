@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+
+body{
+    background-color:blanchedalmond;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.heading{
+    color:rgb(25, 75, 167);
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+    
+    
+    
+}
+Table,th,td{
+    border: 1px solid darkblue;
+    table-layout: inherit;
+    vertical-align: middle;
+    height: 20px;
+    
+}
+
+Th{
+    background-color: lightblue;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ Table.center{
+margin-left: auto;
+margin-right: auto;
+ }
+ .code{
+     color:blue;
+     font-size: 28px;
+     font-family: monospace, Georgia, 'Times New Roman', Times, serif;
+ }
